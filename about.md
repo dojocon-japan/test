@@ -9,3 +9,4 @@ permalink: /about/
 [Home]({{site.baseurl}}/)
 
 Find me in about.md
+テキスト修正
